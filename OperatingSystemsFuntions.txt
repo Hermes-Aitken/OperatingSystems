@@ -9,3 +9,8 @@ The purpous of this funtion is to keep track of all I/o devices
 and the programs the help them function. The status of these devices is also 
 monitored by this function. As well it helps optimizes these devices
 so that they may be used to the best of their ability. 
+
+Processor Mangament is a very important part of the OS.
+It makes sure that the processor is used and distributed properly
+amonugs applications and system processes.
+at it's heart it makes sure multitasking is an achivable task. 
