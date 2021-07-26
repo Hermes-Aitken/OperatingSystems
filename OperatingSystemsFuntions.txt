@@ -14,3 +14,30 @@ Processor Mangament is a very important part of the OS.
 It makes sure that the processor is used and distributed properly
 amonugs applications and system processes.
 at it's heart it makes sure multitasking is an achivable task. 
+
+Windows 
+Pros
+•	Ease of access and familiarity for user
+•	Most programs are written and optimized for Windows
+•	Most optimal for gaming 
+•	Great for enterprise use
+•	Large number of systems pre-installed with windows in all shapes and sizes.
+Cons
+•	Expensive! A copy of windows will run you about $120 for home edition
+•	The size of Windows I quite big compared to other OS’s
+•	Privacy can be an issue; most viruses and attacks are designed with windows in mind due to it being the most common OS out there.
+•	Windows updates are a shot in the dark, sometimes they hit their mark, sometimes hurt more then help, and sometimes they just never happen!
+•	Most pre-installed Windows versions come with a mountain of bloatware, which can be annoying.
+Linux
+Pros
+•	It’s free, you can’t beat free.
+•	Did something in your old pc fry? HDD/SSD Fine? Plug it into to your new computer no problem. (should still reinstall OS but do not need to)
+•	Highly Customizable appearance wise, make it looks crazy, make it look like windows.
+•	Linux is a very secure OS that keeps you and your info much safer than others.
+•	You do not need incredibly high-end hardware for your systems and OS to run well
+Cons
+•	While it is getting better its support for games is less that ideal 
+•	This is a bit of a learning curve compared to Windows in some situations
+•	Often YOU need to know what you’re doing, there isn’t much IT support out there that will be able to help you with Linux. It is becoming better.
+•	It’s software options in some cases are not great/optimal. Windows has much better easier to use programs. 
+•	There are work arounds but there can be a lack of drivers for various things. 
