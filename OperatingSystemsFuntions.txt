@@ -1,0 +1,5 @@
+One of the funtions of an operating system is File Managment.
+The operating system keeps that of a varity of information including
+location, info, and status of the files. On top of that it also 
+manages the space used and needed for new files as well as 
+the space returned for deleting a file. 
